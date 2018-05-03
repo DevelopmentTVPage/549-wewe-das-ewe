@@ -1,0 +1,85 @@
+{
+    "title": "Stephanie Schrider",
+    "description": "",
+    "referenceId": "13fad492bca9d4764560d2b7fe32d0c8",
+    "date_created": "1524870519",
+    "date_modified": "1524870519",
+    "tags": "",
+    "sourceId": "6",
+    "status": "publishing",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "id": "157770540",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Stephanie-Schrider",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "50",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "50",
+            "width": 192,
+            "height": 144
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157770540\/12e92\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157770540\/12e92\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157770540\/12e92\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157770540\/12e92\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/157770540\/12e92\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 192,
+                "height": 144
+            }
+        ],
+        "mediaDuration": "50",
+        "prettyDuration": "00:00:50",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/157770540\/12e92\/thumb-13fad492bca9d4764560d2b7fe32d0c8-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/157770540\/12e92\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/157770540\/12e92\/media.m3u8"
+    },
+    "transcripts": "writer and novelist meet the federal manager on recently great fifties I think very exciting very honorable to be a part of this team I'm I'm playing to the Macy's style crew because I have been wanting to be a social media influencer on but it didn't really how do the plot for myself and and being with me if you think really loving and dedicated to this company and I want to show off my personal style using these products and shoes and clothing on that really expect me to know that means he's going to drive that social media influence there and you know target of money off that I am one of them on so I hope I get the opportunity to be part of me style crew on the topic I have a great day thank you \n",
+    "metrics_statistics": ""
+}
