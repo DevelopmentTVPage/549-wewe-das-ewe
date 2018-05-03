@@ -1,0 +1,49 @@
+{
+    "title": "Recommended Videos",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1521595669",
+    "date_modified": "1525197174",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "155524390",
+    "loginId": "1759121",
+    "entityType": "5",
+    "titleTextEncoded": "Recommended-Videos",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "order": "date_created",
+                    "lastNDays": "",
+                    "limit": "",
+                    "keyword": "",
+                    "page": true
+                },
+                "attributes": {
+                    "videos": {
+                        "status": "approved"
+                    },
+                    "products": {}
+                },
+                "options": {},
+                "extras": {}
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": true,
+            "attributes": {}
+        }
+    },
+    "transcripts": null,
+    "dynamicChannelParams": []
+}
