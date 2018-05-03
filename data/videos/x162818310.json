@@ -1,0 +1,87 @@
+{
+    "title": "TVP Test Video",
+    "description": "fdfdsa",
+    "referenceId": "bc40da974f54ce5a3e587e35e0a7ad1a",
+    "date_created": "1525234928",
+    "date_modified": "1525247000",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "634",
+    "id": "162818310",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "tvp-test-video",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "10",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "10",
+            "width": 1080,
+            "height": 720
+        },
+        "mediaDuration": "10",
+        "prettyDuration": "00:00:10",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/162818310\/c1ca2\/thumb-bc40da974f54ce5a3e587e35e0a7ad1a-00001.jpg",
+        "type": "mp4",
+        "assetId": "162818310",
+        "assetTitle": "TVP Test Video",
+        "assetTitleTextEncoded": "tvp-test-video",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "162818310",
+            "li": "1759121"
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162818310\/c1ca2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162818310\/c1ca2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162818310\/c1ca2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162818310\/c1ca2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162818310\/c1ca2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}

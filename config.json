@@ -5,11 +5,25 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "",
+    "galleryChannelIds": "155524390",
     "params": {
         "loginId": "1759121",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "das.ewe"
+        "cookiedomain": "das.ewe",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "wewe.das.ewe"
+            }
+        }
     }
 }
