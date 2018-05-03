@@ -1,0 +1,85 @@
+{
+    "title": "Bringing Style into America's #1 Department Store",
+    "description": "",
+    "referenceId": "583bd14628939bb71fb62148b751f55a",
+    "date_created": "1525119721",
+    "date_modified": "1525119851",
+    "tags": "",
+    "sourceId": "6",
+    "status": "publishing",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "id": "162779358",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Bringing-Style-into-America-s-1-Department-Store",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "51",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "51",
+            "width": 608,
+            "height": 1080
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162779358\/8b9c2\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 608,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162779358\/8b9c2\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 404,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162779358\/8b9c2\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 270,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162779358\/8b9c2\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 202,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162779358\/8b9c2\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 134,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/162779358\/8b9c2\/thumb-583bd14628939bb71fb62148b751f55a-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/162779358\/8b9c2\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/162779358\/8b9c2\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}
