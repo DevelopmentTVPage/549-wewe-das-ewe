@@ -1,0 +1,85 @@
+{
+    "title": "PARTY OF PETITES MACYS STYLE CREW APP",
+    "description": "",
+    "referenceId": "276b66ed00c0275db11cdccd9fdd4bb0",
+    "date_created": "1525203130",
+    "date_modified": "1525203247",
+    "tags": "",
+    "sourceId": "6",
+    "status": "publishing",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "id": "162797088",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "PARTY-OF-PETITES-MACYS-STYLE-CREW-APP",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "58",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "58",
+            "width": 1920,
+            "height": 1080
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162797088\/6eb3e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162797088\/6eb3e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162797088\/6eb3e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162797088\/6eb3e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162797088\/6eb3e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "58",
+        "prettyDuration": "00:00:58",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/162797088\/6eb3e\/thumb-276b66ed00c0275db11cdccd9fdd4bb0-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/162797088\/6eb3e\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/162797088\/6eb3e\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}
