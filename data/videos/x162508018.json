@@ -1,0 +1,85 @@
+{
+    "title": "Macy\u2019s style crew",
+    "description": "",
+    "referenceId": "b7573bc2c66b1866470704ca2df58457",
+    "date_created": "1524802447",
+    "date_modified": "1524802628",
+    "tags": "",
+    "sourceId": "6",
+    "status": "publishing",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "0",
+    "id": "162508018",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "Macy-s-style-crew",
+    "category": "",
+    "tvp_profiles": "",
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": "",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 480,
+            "height": 360
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162508018\/5696f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162508018\/5696f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162508018\/5696f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162508018\/5696f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/162508018\/5696f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 240
+            }
+        ],
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/162508018\/5696f\/thumb-b7573bc2c66b1866470704ca2df58457-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1759121\/162508018\/5696f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1759121\/162508018\/5696f\/media.m3u8"
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}
